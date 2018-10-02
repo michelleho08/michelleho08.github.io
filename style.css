@@ -1,0 +1,19 @@
+html {
+
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+main {
+    padding: 10px 10px 10px 10px;  
+}
+section { 
+    padding: 10px 10px 10px 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+.img-round {
+    border-radius: 100px;
+}
