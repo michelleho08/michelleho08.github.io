@@ -14,6 +14,10 @@ section {
     padding-bottom: 10px;
     padding-left: 10px;
 }
+
+.tab-class{
+    color:#4262f4
+}
 .img-round {
     border-radius: 100px;
 }
