@@ -16,7 +16,9 @@ section {
 }
 
 .tab-class{
-    color:#4262f4
+    color:#4262f4;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
 }
 .img-round {
     border-radius: 100px;
